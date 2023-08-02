@@ -13,11 +13,12 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 ### C++
 ### Rust
 ### Java
-    * [Californium](https://github.com/eclipse-californium/californium) - CoAP/DTLS Java Implementation. 
+* [Californium](https://github.com/eclipse-californium/californium) - CoAP/DTLS Java Implementation. 
 ### Go
-    * [Go-CoAP](https://github.com/plgd-dev/go-coap) - The go-coap provides servers and clients for DTLS, TCP-TLS, UDP, TCP in golang language.
+* [Go-CoAP](https://github.com/plgd-dev/go-coap) - The go-coap provides servers and clients for DTLS, TCP-TLS, UDP, TCP in golang language.
 ### Python
-    * [aiocoap](https://github.com/chrysn/aiocoap) - The Python CoAP library.
+* [aiocoap](https://github.com/chrysn/aiocoap) - The Python CoAP library.
+### Ruby
     
 ## Resources
 
