@@ -1,6 +1,6 @@
 # awesome-CoAP
 
-A curated list of awesome things related to CoAP, that is Constrained Application Protocol
+A curated list of awesome things related to CoAP, that is Constrained Application Protocol.
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
